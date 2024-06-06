@@ -41,6 +41,12 @@ You can debloat your phone either by gaining root access but as that is a hasle 
   You can install Ashell from the Google Playstore(2.99€),Fdroid(FREE)
   ```
 
+### Alternatives
+
+If your goal is only package management you could use a different gui tool like [this](https://github.com/SmartPack/PackageManager) instead of Ashell.
+
+Here i proceed with Ashell
+
 ### Installation
 
 Ashell is free only on Fdroid in order to download Fdroid :\_
