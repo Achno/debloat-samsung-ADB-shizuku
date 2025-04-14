@@ -158,6 +158,18 @@ com.samsung.android.bixby.wakeup
 com.netflix.mediaclient
 com.android.chrome
 
+com.sec.android.app.kidshome
+com.samsung.android.voc
+com.samsung.android.voc.LauncherActivity
+com.samsung.android.aremoji
+com.sec.android.mimage.avatar.stickers
+com.sec.android.widgetapp.easymodecontactswidget
+com.samsung.android.game.gos
+com.android.hotwordenrollment.xgoogle
+com.android.hotwordenrollment.okgoogle
+com.samsung.android.kidsinstaller
+com.sec.android.easyMover
+
 
 EXTRA
 com.google.android.onetimeinitializer - Provides first time setup, safe to remove.
